@@ -9,7 +9,7 @@ Measure the impact of holidays on sales
 Understand the relationship between sales, CPI, and unemployment
 
 # Dataset Description
-# Column	                     Description
+Column	                     Description
 Store_ID               	Unique store identifier
 Date	                  Weekly sales date
 Weekly_Sales          	Revenue generated
