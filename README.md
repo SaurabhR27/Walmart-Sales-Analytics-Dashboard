@@ -18,12 +18,12 @@ CPI	Consumer            Price Index
 Unemployment	          Unemployment rate
 
 # Dashboard Features
-** KPI cards for Total Sales, Avg Sales, YoY Growth, CPI & Unemployment
-Analysis of Sales trends by Year, Quarter, Month
-Comparison of performance by Store
-Analysis of sales during Holiday and non-Holiday periods
-Analysis of Economic factors (Sales vs CPI & Unemployment)
-Interactive slicers for Store and Date
+* KPI cards for Total Sales, Avg Sales, YoY Growth, CPI & Unemployment
+* Analysis of Sales trends by Year, Quarter, Month
+* Comparison of performance by Store
+* Analysis of sales during Holiday and non-Holiday periods
+* Analysis of Economic factors (Sales vs CPI & Unemployment)
+* Interactive slicers for Store and Date
 
 
 Sales data is highly seasonal, with peaks during holiday seasons
