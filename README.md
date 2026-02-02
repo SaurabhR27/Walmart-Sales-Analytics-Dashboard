@@ -9,13 +9,14 @@ Measure the impact of holidays on sales
 Understand the relationship between sales, CPI, and unemployment
 
 # Dataset Description
---|Column	                 --|Description
-Store_ID               	Unique store identifier
-Date	                  Weekly sales date
-Weekly_Sales          	Revenue generated
-IsHoliday	              Holiday indicator
-CPI	Consumer            Price Index
-Unemployment	          Unemployment rate
+| Column | Description|
+|------|---------|
+|Store_ID|Unique store identifier|
+|Date	|Weekly sales date|
+|Weekly_Sales|Revenue generated|
+|IsHoliday|Holiday indicator|
+|CPI	Consume|Index|
+|Unemployment|Unemployment rate|
 
 # Dashboard Features
 * KPI cards for Total Sales, Avg Sales, YoY Growth, CPI & Unemployment
