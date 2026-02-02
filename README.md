@@ -9,7 +9,7 @@ Measure the impact of holidays on sales
 Understand the relationship between sales, CPI, and unemployment
 
 # Dataset Description
-Column	                     Description
+|Column	                    |Description
 Store_ID               	Unique store identifier
 Date	                  Weekly sales date
 Weekly_Sales          	Revenue generated
@@ -25,12 +25,13 @@ Unemployment	          Unemployment rate
 * Analysis of Economic factors (Sales vs CPI & Unemployment)
 * Interactive slicers for Store and Date
 
+# Key Insights
+* Sales data is highly seasonal, with peaks during holiday seasons
+* Some stores perform better than others
+* Sales increase is affected by changes in unemployment levels
+* Inflation (CPI) trends are related to sales variations
 
-Sales data is highly seasonal, with peaks during holiday seasons
-Some stores perform better than others
-Sales increase is affected by changes in unemployment levels
-Inflation (CPI) trends are related to sales variations
-
-Target promotions at high-performing stores during peak seasons
-Enhance operational methods for low-performing stores
-Develop inventory and pricing plans according to economic trends
+# Business Recommendations
+* Target promotions at high-performing stores during peak seasons
+* Enhance operational methods for low-performing stores
+* Develop inventory and pricing plans according to economic trends
